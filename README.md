@@ -13,5 +13,5 @@ Desenvolvedor Front-end, buscando contribuir para projetos inovadores com impact
 
 #### Encontre-me em outros lugarares
 
-[![Linkedin Badge](https://img.shields.io/badge/-Murillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilloressineti/)](https://www.linkedin.com/in/murilloressineti/)
-[![Gmail Badge](https://img.shields.io/badge/-murillobr22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillobr22@gmail.com)](mailto:murillobr22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilloressineti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillobr22@gmail.com)
