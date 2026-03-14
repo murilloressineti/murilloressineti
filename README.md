@@ -1,17 +1,33 @@
-### Oi, meu nome é Murillo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+# Murillo Ressineti Silva
+### Desenvolvedor Front-end | React
 
-Desenvolvedor Front-end, buscando contribuir para projetos inovadores com impacto positivo.
+Focado em transformar ideias em interfaces modernas, acessíveis e com ótima experiência de usuário.
 
-#### Tecnologias utilizadas
+---
 
-- ✨ Linguagem principal: `JavaScript`
-- ⚙️ Back-end: `Nodejs`
-- 👨‍💻 Front-end: `React`, `HTML`, `CSS`, `JavaScript`
-- 🎨 Layout Design: `Figma`
-- ⚡ Controle de Versionamento: `Git & GitHub`
-- 🛠️ Ferramentas: `VSCode`, `Markdown`
+### 🛠️ Tecnologias e Ferramentas
 
-#### Encontre-me em outros lugarares
+* **Principal:** JavaScript, TypeScript, React.
+* **Estilização:** Tailwind CSS, Styled Components
+* **Animação:** Framer Motion
+* **Ferramentas:** Node.js, Git/GitHub, Vite.
+* **Design:** Figma (Design System e Prototipagem).
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilloressineti/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillobr22@gmail.com)
+---
+
+### 🎓 Educação & Evolução
+
+* **Graduação:** Análise e Desenvolvimento de Sistemas – Universidade Presbiteriana Mackenzie.
+* **Imersão Técnica:** Bootcamp Full-Stack – Rocketseat.
+* **Foco Atual:** Especialização em React (Hooks, Context API e Performance), TypeScript e Clean Code.
+
+---
+
+### 🌐 Conecte-se comigo
+
+* **[Portfólio](https://murilloressineti.com.br/)**
+* **[LinkedIn](https://www.linkedin.com/in/murilloressineti/)**
+* **[E-mail](mailto:murillo@ressineti.com)**
+
+---
+*"Evoluir como pessoa é o meu maior projeto."*
