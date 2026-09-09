@@ -1,33 +1,31 @@
 # Murillo Ressineti Silva
-### Desenvolvedor Front-end | React
+### Desenvolvedor Front-end | React • TypeScript • JavaScript
 
-Focado em transformar ideias em interfaces modernas, acessíveis e com ótima experiência de usuário.
+Desenvolvedor Front-end com foco na construção de aplicações web responsivas, componentizadas e integradas a APIs REST.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Principal:** JavaScript, TypeScript, React.
-* **Estilização:** Tailwind CSS, Styled Components
-* **Animação:** Framer Motion
-* **Ferramentas:** Node.js, Git/GitHub, Vite.
-* **Design:** Figma (Design System e Prototipagem).
+* **Front-end:** React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
+* **Back-end e Dados:** Node.js, Express, PostgreSQL, Prisma, APIs REST, JWT
+* **Ferramentas e Bibliotecas:** Git, GitHub, Vite, Axios, React Hook Form, Zod, Framer Motion
 
 ---
 
-### 🎓 Educação & Evolução
+### 🎓 Formação
 
-* **Graduação:** Análise e Desenvolvimento de Sistemas – Universidade Presbiteriana Mackenzie.
-* **Imersão Técnica:** Bootcamp Full-Stack – Rocketseat.
-* **Foco Atual:** Especialização em React (Hooks, Context API e Performance), TypeScript e Clean Code.
+**Análise e Desenvolvimento de Sistemas**  
+Universidade Presbiteriana Mackenzie
+
+**Formação Full Stack**  
+Rocketseat
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-* **[Portfólio](https://murilloressineti.com.br/)**
-* **[LinkedIn](https://www.linkedin.com/in/murilloressineti/)**
-* **[E-mail](mailto:murillo@ressineti.com)**
+[Portfólio](https://murilloressineti.com.br/) • [LinkedIn](https://www.linkedin.com/in/murilloressineti/) • [E-mail](mailto:murillo@ressineti.com.br)
 
 ---
 *"Evoluir como pessoa é o meu maior projeto."*
