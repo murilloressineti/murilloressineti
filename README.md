@@ -1,5 +1,5 @@
 # Murillo Ressineti Silva
-### Desenvolvedor Front-end | React • TypeScript • JavaScript
+### Desenvolvedor de Software | React.js • TypeScript • JavaScript • Node.js • PostgreSQL
 
 Desenvolvedor Front-end com foco na construção de aplicações web responsivas, componentizadas e integradas a APIs REST.
 
